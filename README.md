@@ -1,3 +1,3 @@
 # profile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongrufan123&layout=compact&hide=Elisp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongrufan123&layout=compact&hide=EmacsLisp)](https://github.com/anuraghazra/github-readme-stats)
